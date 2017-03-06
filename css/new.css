@@ -1,0 +1,34 @@
+
+/*banner区域*/
+.banner{width:100%;height:450px;position: relative;}
+.banner .banner_b{width:100%;height:450px;overflow: hidden;}
+.banner img{width:100%;height:450px;}
+
+/*main*/
+/*.new_ads{background:url("../images/top_bg.jpg") no-repeat;}*/
+.inner_in .new_ads{width:100%;height:80px;text-align: center;margin-top:-10px;background:#fff url("../images/top_bg.jpg") no-repeat;}
+.new_ads p{float: left;font:20px/60px "Microsoft Yahei";color:#9c7f63;padding-left:10px;letter-spacing: 1px;}
+.new_ads ul{float: right}
+.new_ads ul li{float: left;color:#9c7f63}
+.new_ads ul li a{font:14px/60px "Microsoft Yahei";color:#9c7f63;padding:0 8px}
+.new_ads ul .more{padding:0 17px;}
+.new_ads ul li a:hover{color:#993300;text-decoration: underline}
+.new_ads ul .more:hover{text-decoration: underline}
+.new_show{width:100%;border-top:3px solid #c6b29e;background-color: #f8f4f0}
+.new_s{padding:0 10px;background-color: #fff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

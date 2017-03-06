@@ -1,0 +1,63 @@
+
+/*定制区域的css */
+
+/*公共css*/
+/*banner区域*/
+.banner{width:100%;height:450px;position: relative;}
+.banner .banner_b{width:100%;height:450px;overflow: hidden;}
+.banner img{width:100%;height:450px;}
+.inner_in .new_ads{width:100%;height:80px;text-align: center;margin-top:-10px;background:#fff url("../images/top_bg.jpg") no-repeat;}
+.new_ads p{float: left;font:20px/60px "Microsoft Yahei";color:#9c7f63;padding-left:10px;letter-spacing: 1px;}
+.new_ads span{float: right;font:12px/60px "Microsoft Yahei";color:#9c7f63; padding-right:20px;}
+.new_ads span a{font:14px/60px "Microsoft Yahei";color:#9c7f63; }
+.cus_custom{padding:0 10px;background-color: #fff;}
+.cus_left{float: left;width:211px;}
+/*定制服务*/
+.cus_left h3{background: url("../images/custop_title.png") no-repeat;font:18px/41px "Microsoft Yahei";color: #fff;padding-left:48px;}
+.cus_left li{background: url("../images/menu_bg1.jpg") no-repeat;padding-left: 48px;width: 163px; height: 52px;line-height: 52px;}
+.cus_left li a{font:14px/52px "Microsoft Yahei";color:#630}
+.cus_left li .cus_act{color:#930}
+.cus_left li a:hover{color:#930}
+.cus_right{width: 694px;border-top: 2px solid #95795f;padding: 40px 40px 10px 40px;float: left;font-family: "Microsoft Yahei";margin-bottom: 70px;}
+.cus_right h3{font-size: 18px;color: #8b4513;font-weight: normal;}
+/**/
+/*定制流程*/
+.cus_right h2{font-size: 18px;color: #630;font-weight: normal;}
+.cus_right dl{margin-left:66px;}
+.cus_right dt img{width:52px;height:29px;overflow: hidden;margin-left:-60px;}
+.cus_right dt span{padding-left:8px;color: #663300;font-size: 16px;vertical-align: top;}
+.cus_right dd{font-size:14px;}
+.cust_right{margin-bottom: 0;}
+/*公司简介*/
+.about_pic{width:197px;height:254px;float: left;}
+.about_pic img{width:100%;height:100%}
+.about_right{float: left;padding-left:20px;width:470px;}
+.about_right h3{color: rgb(102, 102, 102);font-size: 16px;font-weight: normal;margin-bottom: 10px;font-family: "Microsoft Yahei"}
+.about_right p{font: 14px/24px "Microsoft Yahei"}
+/*紫砂文化*/
+.cul_right ul li{color: #a5988c;height: 29px;line-height: 22px;padding-left: 20px;background: url(../images/new_line.gif) top left no-repeat;  margin-bottom: 8px;}
+.cul_right ul li a{color: #630;font: 12px/22px "Microsoft Yahei"}
+.cul_right ul li span{float: right;font: 12px/22px "Microsoft Yahei"}
+.cul_right ul li a:hover{color:#993300;text-decoration: underline}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

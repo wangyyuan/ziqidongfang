@@ -1,0 +1,55 @@
+/*price与会员中心*/
+.p_ads{width:990px;height:60px;background: url("../images/top_bg.jpg") no-repeat;padding:0 10px;}
+.p_ads p{float: left;font:24px/60px "Microsoft Yahei";color: #630;letter-spacing: 2px;}
+.p_ads .p_r{float: right;font:12px/60px "Microsoft Yahei";}
+.p_ads .p_r a{color:#9c7f63}
+.p_ads .p_r a:hover,.login_con a:hover{color:#993300;text-decoration: underline}
+.login{width:1010px;background-color: #fff;padding-top:40px;}
+.login .login_1{width:788px;padding-bottom:30px;margin:0 auto;}
+.tabList{height:36px;line-height:36px;background-color: #ede7e2;}
+.tabList ul,.tabList ul li{float: left;}
+.tabList p{float: right;font:12px/36px "Microsoft Yahei";color:#963;padding-right:10px;}
+.tabList p span,.login_con span{font-size: 14px;color: #d71124;}
+.tabList ul li{padding:0 20px;border-right:2px solid #fff;font:bold 14px/36px "Microsoft Yahei";color:#630;cursor: pointer}
+.tabList ul .logi{background-color: #963;color:#fff;}
+.tab_con{border:1px solid #ede7e2;padding:20px;}
+.tab_con .login_con{padding:10px 0 10px 60px;}
+.login_con p{display: inline-block;width:100px;text-align: right;font:14px/32px "Microsoft Yahei";color:#333;}
+.login_con .lg_c{margin-bottom: 20px;}
+.login_con input{width:220px;height:20px;padding:5px;border:1px solid #ede7e2;margin-left:5px;color:#666;font-size: 14px;overflow: hidden;line-height:20px;}
+.login_con a{font-style: normal;color:#9c7f63;font:12px/32px "Microsoft Yahei";padding-left:5px;}
+.login_con .num{width:80px;}
+.login_con .yanzheng{width:80px;height:25px;display: inline-block;vertical-align: middle;margin-left:3px;cursor: pointer;background-color:#ccc;text-align: center;letter-spacing: 5px;font-size: 16px;line-height:25px;color:#fff;font-weight: bold}
+.lg_check{padding-left:100px;line-height:22px;}
+.lg_check .check_id{width:12px;}
+.lg_check label{font:12px/22px "Microsoft Yahei";margin-right: 5px;vertical-align: top;}
+.lg_check .check_lg{height: 30px;font:bold 14px/30px "Microsoft Yahei";width: 118px;color: #fff;text-align: center;border: none;cursor: pointer;background-color: #be0000;border-radius: 5px;padding: 0}
+.lg_check .check_l{background-color: #a06d3b}
+.hide{display: none;}
+.lg_iphone{padding-left:230px;}
+.login_con .lg_iphone input{color: #630;padding: 2px 10px;font: 12px/20px "Microsoft Yahei";text-align: center;border: 1px solid #ede7e2;background-color: #f8f4f0;width:100px;height:30px;cursor: pointer}
+.login_con .lg_g{margin-bottom: 5px}
+
+
+/*注册的css*/
+.lg_c select{margin-right:3px;}
+.lg_c .check_sign{width:200px;}
+.lg_c  .xieyi{display: block}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
